@@ -1,0 +1,90 @@
+Para aprender a programar es necesario comprender la logica.
+
+La logica en la programación es bastante simple solo es un
+conjunto de instrucciones que se le indican a una maquina.
+
+Y se basan en Condicionales, Bucles, Inputs y Ouputs.
+
+Inputs:
+Entrada de datos por medio del teclado.
+
+Ouputs:
+Salida de datos por la pantalla.
+
+Condicionales:
+Si se cumple entonces realiza la siguiente accion pero 
+si no se cumple realiza la siguiente accion.
+
+Bucles:
+Los bucles se utilizan para repetir cierta accion y asi no volver
+a reescribir las mismas lineas de codigo entre ellos 
+se encuentran For, While y Do-While
+
+	TIPOS DE DATOS
+
+INT o Enteros:
+Son aquellos numeros que no cuentan con
+decimasles Ejemplo: 1, 2, 3...
+
+Double o Real:
+Son aquellos numeros que si cuentan con decimales
+Ejemplo: 1.5, 2.5,...
+
+String o Carater:
+Son aquellos que puedes ingresar letras para poder y caracteres
+especiales Ejemplo: hola, a, @$%...
+
+Booleanos:
+Los tipos booleanos son aquellos que se designan como true o false
+cierto o falso su funcion es poder crear por ejemplo crear variables bandera
+
+	INSTALACION DE JDK
+
+Nuestro primer programa es un clasico "Hola mundo" programado en java
+para ello necesitamos un JDK es un kit para ello es necesario acceder al
+siguiente enlace: https://www.oracle.com/java/technologies/downloads/#java8-windows
+y elegir la opcion segun la arquitectura de tu computadora una vez que se haya descargado
+tienes que presionar click derecho y despues darle click derecho y ejecutar como administrador
+posteriormente debes de continuar con los pasos de instalacion solo debes de presionar
+en continuar y instalar una vez que hayas concluido la instalacion tienes que ubicar tu disco local
+una vez ubicado debes de buscar la carpeta archivos del programa despues buscar la carpeta 
+llamada Java una vez que estas en la carpeta de java tienes que abrir la carpeta llamada
+JDK despues abrir la carpeta llamada bin una vez abierto debes de copear la direccion en la parte
+superior despues dar click en la parte izquierda y buscar Este equipo una vez que hayas entrado
+en esa seccion sin seleccionar nada debes de dar click derecho y precionar la opcion de propiedades
+una vez que estes en la ventana de propiedades en la parte izquierda debes de dar click en 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
